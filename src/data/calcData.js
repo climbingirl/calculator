@@ -1,0 +1,16 @@
+export const buttonsData = {
+  0: { id: 'zero', className: 'number' },
+  1: { id: 'one', className: 'number' },
+  2: { id: 'two', className: 'number' },
+  3: { id: 'three', className: 'number' },
+  4: { id: 'four', className: 'number' },
+  5: { id: 'five', className: 'number' },
+  6: { id: 'six', className: 'number' },
+  7: { id: 'seven', className: 'number' },
+  8: { id: 'eight', className: 'number' },
+  9: { id: 'nine', className: 'number' },
+  '-': { id: 'minus', className: 'operator' },
+  '+': { id: 'plus', className: 'operator' },
+  '=': { id: 'equals', className: 'equals-operator' },
+  C: { id: 'clear', className: 'clear-operator' },
+};
