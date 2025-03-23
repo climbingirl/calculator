@@ -29,6 +29,7 @@
 .output-value {
   font-size: 2rem;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .buttons {
